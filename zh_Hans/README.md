@@ -1,5 +1,5 @@
 
-[In English](https://yenomdev.kjuly.com/VersionHistory/)
+[In English](https://yenomdev.kjuly.com/VersionHistory-iOS/)
 
 ---
 

@@ -1,5 +1,5 @@
 
-[简体中文](https://yenomdev.kjuly.com/VersionHistory/zh_Hans) | [繁體中文](https://yenomdev.kjuly.com/VersionHistory/zh_Hant)
+[简体中文](/VersionHistory-iOS/zh_Hans) | [繁體中文](/VersionHistory-iOS/zh_Hant)
 
 ---
 
