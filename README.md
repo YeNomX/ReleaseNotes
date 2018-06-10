@@ -1,4 +1,8 @@
 
+[简体中文](https://yenomdev.kjuly.com/VersionHistory/zh_Hans) | [繁體中文](https://yenomdev.kjuly.com/VersionHistory/zh_Hant)
+
+---
+
 __v3.7.7 @ 2018-06-08__  
 
   - Add "Contribution" row under "Settings - About" section.  
@@ -129,6 +133,7 @@ __v3.3.0 @ 2017-08-23__
   - New independent tag management view (provided in main menu, between Account & Report);  
   - Sort accounts by name;  
   - Bugfix for Sync: Create tag w/ same name but different record type will lead merging error.  
+
 ---
 
 __v3.2.4 @ 2017-07-15__

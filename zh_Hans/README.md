@@ -1,4 +1,8 @@
 
+[In English](https://yenomdev.kjuly.com/VersionHistory/)
+
+---
+
 __v3.7.7 @ 2018-06-08__  
 
   - 在“设置-关于”中加入“参与贡献”项。
