@@ -1,7 +1,7 @@
 
 [In English](https://yenomdev.kjuly.com/VersionHistory-iOS/)
 
----
+------
 
 __v3.7.7 @ 2018-06-08__  
 

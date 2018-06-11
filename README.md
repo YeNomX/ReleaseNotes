@@ -1,7 +1,7 @@
 
 [简体中文](/VersionHistory-iOS/zh_Hans) | [繁體中文](/VersionHistory-iOS/zh_Hant)
 
----
+------
 
 __v3.7.7 @ 2018-06-08__  
 
