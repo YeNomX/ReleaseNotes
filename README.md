@@ -3,6 +3,10 @@
 
 ------
 
+__v3.7.8 @ 2018-06-12__
+  
+  - Add "Version History" row under "Settings - About" section.
+
 __v3.7.7 @ 2018-06-08__  
 
   - Add "Contribution" row under "Settings - About" section.  
