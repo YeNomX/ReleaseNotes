@@ -3,6 +3,10 @@
 
 ------
 
+__v3.7.9 @ 2018-06-13__
+  
+  - Provide options to handle related Rules in Account Deletion step.
+
 __v3.7.8 @ 2018-06-12__
   
   - Add "Version History" row under "Settings - About" section.
