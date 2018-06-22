@@ -3,6 +3,17 @@
 
 ------
 
+__v3.8.0 @ 2018-06-22__
+  
+  - BUGFIX: Account specific currency format example mismatched in Account Edit View;
+  - Introduce rounding setting options in "Currency Format";
+  - Apply rounding to record amount field when press confirm button;
+  - Record edit view: Adjust font size if the number is long;
+  - Rename "Currency Format" to "Number Format";
+  - Some other UI fine-tunes.
+  
+---
+
 __v3.7.9 @ 2018-06-13__
   
   - Provide options to handle related Rules in Account Deletion step.
