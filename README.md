@@ -3,6 +3,13 @@
 
 ------
 
+__v3.8.1 @ 2018-06-23__
+  
+  - Update account number format related tip;
+  - Replace account's old help view w/ the new tips view;
+  - Do not let tip video interrupt background music;
+  - Improve loading interaction for tips view.
+
 __v3.8.0 @ 2018-06-22__
   
   - BUGFIX: Account specific currency format example mismatched in Account Edit View;
