@@ -3,6 +3,10 @@
 
 ------
 
+__v3.8.2 @ 2018-06-26__
+  
+  - BUGFIX: Rule Widget doesn't update after deleting Manual Rule in edit view or by swiping to left on cell.
+
 __v3.8.1 @ 2018-06-23__
   
   - Update account number format related tip;
