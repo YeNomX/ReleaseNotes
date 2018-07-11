@@ -3,6 +3,15 @@
 
 ------
 
+__v3.9.0 @ 2018-07-09__
+  
+  - Introduce more unit types (Time, Weight, Distance, etc) as well as Currency;
+  - Allow to set different units for general number & report number, w/ exchange rate provided;
+  - Update report titles & fix incorrect "Name" title in Chinese version;
+  - Separate number format related columns from "Account" report to a new "Number Format Settings" report.
+  
+---
+
 __v3.8.2 @ 2018-06-26__
   
   - BUGFIX: Rule Widget doesn't update after deleting Manual Rule in edit view or by swiping to left on cell.
