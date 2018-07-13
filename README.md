@@ -3,6 +3,12 @@
 
 ------
 
+__v3.9.1 @ 2018-07-12__
+  
+  - Tags Management View: Make new tag to use the selected filter account by default;
+  - Provide "Include Origianl Value" option in report export setting view if general & report numbers' exchange rate is not "1:1";
+  - Adjust font size for PDF report.
+
 __v3.9.0 @ 2018-07-09__
   
   - Introduce more unit types (Time, Weight, Distance, etc) as well as Currency;
