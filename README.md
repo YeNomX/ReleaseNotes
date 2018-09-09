@@ -3,6 +3,18 @@
 
 ------
 
+__v3.10.7 @ 2018-09-10__
+  
+  - Support multiple currencies (or any other unit) in one account;
+  - Support custom unit creation (related management view is "Settings - General - Unit");
+  - Support adding API to update exchange rate (related management view is "Settings - General - Unit Relation");
+  - Update unit related options in "Settings - General - Number Format";
+  - Account Edit View: Add "Account Default Unit" & "Account Unit" options;
+  - Rule Edit View: Add "Unit" field for rule outcome section;  
+  - BUGFIX: Editing record amount to delete last number twice might lead crash.  
+  
+---
+
 __v3.9.1 @ 2018-07-12__
   
   - Tags Management View: Make new tag to use the selected filter account by default;
