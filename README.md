@@ -3,6 +3,12 @@
 
 ------
 
+__v3.10.9 @ 2018-09-14__
+  
+  - Update style for some list views;
+  - Update Auto-Lock setting view;
+  - BUGFIX: Add button disappears after sorting items in Summary Widget setting view.
+
 __v3.10.7 @ 2018-09-10__
   
   - Support multiple currencies (or any other unit) in one account;
