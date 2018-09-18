@@ -3,6 +3,10 @@
 
 ------
 
+__v3.10.10 @ 2018-09-18__
+  
+  - Adjust confirm button's position while editing account name & note.
+
 __v3.10.9 @ 2018-09-14__
   
   - Update style for some list views;
