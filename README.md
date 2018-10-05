@@ -3,6 +3,10 @@
 
 ------
 
+__v3.10.11 @ 2018-10-05__
+  
+  - BUGFIX: Switching 'Created Units Only' quickly in Unit Relation Quick Setup Guide view will lead a crash.
+
 __v3.10.10 @ 2018-09-18__
   
   - Adjust confirm button's position while editing account name & note.
