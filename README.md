@@ -3,6 +3,25 @@
 
 ------
 
+__v4.0.11 @ 2019-05-20__
+  
+  - Introduce ledger to group itemized accounts;
+  - Provide ledger level report to aggregate multiple accounts;
+  - Move "Settings - General - Number Format" to ledger setting view;
+  - Support tag sorting;
+  - Introduce favorite concept for tag;
+  - New menu;
+  - New record setting view;
+  - Support record type switching inner setting view;
+  - Provide API key to support new version of the free currency converter service.
+  - Improve data export view;
+  - Improve Rule Widget;
+  - Rename "Auto Rule" & "Manual Rule" to "Automation Rule" & "Shortcut Rule";
+  - Some fixes & fine-tunes;
+  - Update lowest support version to iOS 11.
+  
+===
+
 __v3.10.11 @ 2018-10-05__
   
   - BUGFIX: Switching 'Created Units Only' quickly in Unit Relation Quick Setup Guide view will lead a crash.
