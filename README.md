@@ -3,6 +3,11 @@
 
 ------
 
+__v4.0.12 @ 2019-05-22__
+  
+  - BUGFIX: Fix typo of "Gesture Sensitivity" in Chinese version;
+  - BUGFIX: Fix potential crash in Account Report Module.
+
 __v4.0.11 @ 2019-05-20__
   
   - Introduce ledger to group itemized accounts;
