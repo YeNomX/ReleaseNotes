@@ -3,6 +3,11 @@
 
 ------
 
+__v4.0.13 @ 2019-05-27__
+  
+  - Treat zero as placeholder for record creation from shortcut rule;
+  - BUGFIX: Category added as result wrongly for the case of tag selection w/ child tag as chain tag from All Tags list.
+
 __v4.0.12 @ 2019-05-22__
   
   - BUGFIX: Fix typo of "Gesture Sensitivity" in Chinese version;
