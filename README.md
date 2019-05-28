@@ -30,7 +30,8 @@ __v4.0.11 @ 2019-05-20__
   - Some fixes & fine-tunes;
   - Update lowest support version to iOS 11.
   
-===
+---  
+---  
 
 __v3.10.11 @ 2018-10-05__
   
