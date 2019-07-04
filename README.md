@@ -3,6 +3,17 @@
 
 ------
 
+__v4.1.1 @ 2019-07-03__
+  
+  - Introduce budget concept;
+  - Provide associated data info for ledger, account & tag deletion confirmation view;
+  - Refresh records timeline once updated/deleted tag of current account;
+  - Fix sync history view's pagination;  
+  - BUGFIX: Ledger instance not synced after updating;
+  - Some other fine-tunes.
+  
+---
+
 __v4.0.13 @ 2019-05-27__
   
   - Treat zero as placeholder for record creation from shortcut rule;
