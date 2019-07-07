@@ -3,6 +3,10 @@
 
 ------
 
+__v4.1.2 @ 2019-07-05__
+  
+  - Support budget by category.
+
 __v4.1.1 @ 2019-07-03__
   
   - Introduce budget concept;
