@@ -3,6 +3,16 @@
 
 ------
 
+__v4.2.0 @ 2019-07-07__
+  
+  - Provide day indicator for records timeline;
+  - Ledger Report View: Make all numbers consistent in report number unit;
+  - BUGFIX: Search field is covered by empty view when the searching result is empty;
+  - BUGFIX: Non-English ledger or account name cannot be displayed in exported report folder;
+  - BUGFIX: Report button in ledger selection view doesn’t present focused ledger's report.
+  
+---
+
 __v4.1.2 @ 2019-07-05__
   
   - Support budget by category.
