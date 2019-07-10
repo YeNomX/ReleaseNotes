@@ -3,6 +3,11 @@
 
 ------
 
+__v4.2.1 @ 2019-07-09__
+  
+  - Apply custom number keyboard to budget quota & rule outcome amount edit view;
+  - Release related accounts' cached resource after updating ledger.
+
 __v4.2.0 @ 2019-07-07__
   
   - Provide day indicator for records timeline;
