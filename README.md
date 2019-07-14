@@ -3,6 +3,10 @@
 
 ------
 
+__v4.2.2 @ 2019-07-13__
+  
+  - Do not backup record's photo to album again if it’s picked from Photos library.
+
 __v4.2.1 @ 2019-07-09__
   
   - Apply custom number keyboard to budget quota & rule outcome amount edit view;
