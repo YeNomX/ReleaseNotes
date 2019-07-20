@@ -3,6 +3,10 @@
 
 ------
 
+__v4.2.3 @ 2019-07-19__
+  
+  - Improve ledger & account's sync logic between version 3.x & 4.x among multiple devices.
+
 __v4.2.2 @ 2019-07-13__
   
   - Do not backup record's photo to album again if it’s picked from Photos library.
