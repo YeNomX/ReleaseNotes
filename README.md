@@ -3,6 +3,14 @@
 
 ------
 
+__v4.3.0 @ 2019-08-19__
+  
+  - Support segment selection in report pie chart;
+  - Reflect category tags in report pie chart's 3rd level;
+  - Provide minimap, balance mode & time unit switching function for bar & line charts.
+  
+---
+
 __v4.2.3 @ 2019-07-19__
   
   - Improve ledger & account's sync logic between version 3.x & 4.x among multiple devices.
