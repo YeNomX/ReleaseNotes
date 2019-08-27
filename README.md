@@ -3,6 +3,12 @@
 
 ------
 
+__v4.4.3 @ 2019-08-25__
+  
+  - Introduce Dark Mode, and Provide a Switch Button at Top of the Menu.
+  
+---
+
 __v4.3.0 @ 2019-08-19__
   
   - Support segment selection in report pie chart;
