@@ -3,6 +3,10 @@
 
 ------
 
+__v4.4.6 @ 2019-08-28__
+  
+  - BUGFIX: Potential crash when present ledgers view.
+
 __v4.4.3 @ 2019-08-25__
   
   - Introduce Dark Mode, and Provide a Switch Button at Top of the Menu.
