@@ -3,6 +3,10 @@
 
 ------
 
+__v4.4.7 @ 2019-08-31__
+  
+  - Adjust record's sub-text color for dark mode.
+
 __v4.4.6 @ 2019-08-28__
   
   - BUGFIX: Potential crash when present ledgers view.
