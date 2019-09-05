@@ -3,6 +3,10 @@
 
 ------
 
+__v4.4.8 @ 2019-09-05__
+  
+  - BUGFIX: Potential crash in report view.
+
 __v4.4.7 @ 2019-08-31__
   
   - Adjust record's sub-text color for dark mode.
