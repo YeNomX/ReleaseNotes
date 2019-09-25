@@ -3,6 +3,10 @@
 
 ------
 
+__v4.4.9 @ 2019-09-22__
+  
+  - BUGFIX: Automation rule’s monthly specific day (e.g. last day of a month) not works.
+
 __v4.4.8 @ 2019-09-05__
   
   - BUGFIX: Potential crash in report view.
