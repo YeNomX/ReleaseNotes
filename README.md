@@ -3,6 +3,15 @@
 
 ------
 
+__v4.5.5 @ 2019-10-05__
+  
+  - Introduce Pro Version w/ two new modules: Theme & Color;
+  - Support ledger, account, tag & record's color customization in Pro Version;
+  - Update Summary Widget & Rule Widget to adapt dark mode;
+  - BUGFIX: Presenting report will lead a crash if current account is deleted from another device.
+  
+---
+
 __v4.4.9 @ 2019-09-22__
   
   - BUGFIX: Automation rule’s monthly specific day (e.g. last day of a month) not works.
