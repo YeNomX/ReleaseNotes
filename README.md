@@ -3,6 +3,11 @@
 
 ------
 
+__v4.5.6 @ 2019-10-07__
+  
+  - BUGFIX: Black color value generated for data synced from devices w/ lower app version;
+  - Provide icon for main menu.
+
 __v4.5.5 @ 2019-10-05__
   
   - Introduce Pro Version w/ two new modules: Theme & Color;
