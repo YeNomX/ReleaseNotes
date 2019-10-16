@@ -3,6 +3,15 @@
 
 ------
 
+__v4.6.1 @ 2019-10-15__
+  
+  - Introduce independent "Photos" module to manage all record photos;
+  - Move setting options of "Settings - Photos Management" to the new module;
+  - Provide extra photo setting options about whether save to album for different scenarios;
+  - Support record photo sharing.
+  
+---
+
 __v4.5.6 @ 2019-10-07__
   
   - BUGFIX: Black color value generated for data synced from devices w/ lower app version;
