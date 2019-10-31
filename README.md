@@ -3,6 +3,11 @@
 
 ------
 
+__v4.6.2 @ 2019-10-31__
+  
+  - Update "Settings - Contribution" Module;
+  - BUGFIX: Potential crash while updating budget quota.
+
 __v4.6.1 @ 2019-10-15__
   
   - Introduce independent "Photos" module to manage all record photos;
