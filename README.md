@@ -3,6 +3,15 @@
 
 ------
 
+__v4.7.1 @ 2019-11-07__
+  
+  - New style for photo picker;
+  - Photo Settings: Provide some photo processing related options;
+  - Rename "Photo Size" to "Photo Resolution";
+  - Support editing existing photos.
+  
+---
+
 __v4.6.2 @ 2019-10-31__
   
   - Update "Settings - Contribution" Module;
