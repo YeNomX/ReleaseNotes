@@ -3,6 +3,11 @@
 
 ------
 
+__v4.7.3 @ 2019-11-08__
+  
+  - Adjust date picker's background color when system & app are in different theme modes;
+  - BUGFIX: Ledger report's data not refreshed for custom date range updating.
+
 __v4.7.1 @ 2019-11-07__
   
   - New style for photo picker;
