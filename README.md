@@ -3,6 +3,13 @@
 
 ------
 
+__v4.8.0 @ 2019-11-15__
+  
+  - Support sharing expected "Shortcut Rule"s among multiple devices;
+  - Provide more share options for logs generated under sync debug mode.
+  
+---
+
 __v4.7.3 @ 2019-11-08__
   
   - Adjust date picker's background color when system & app are in different theme modes;
