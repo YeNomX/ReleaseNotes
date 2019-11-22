@@ -3,6 +3,12 @@
 
 ------
 
+__v4.9.1 @ 2019-11-22__
+  
+  - Make "Summary Widget" & "Rule Widget"’s record type color follow app's current theme.
+  
+---
+
 __v4.8.0 @ 2019-11-15__
   
   - Support sharing expected "Shortcut Rule"s among multiple devices;
