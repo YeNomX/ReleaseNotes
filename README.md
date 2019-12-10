@@ -3,6 +3,12 @@
 
 ------
 
+__v4.10.0 @ 2019-12-09__
+  
+  - Provide "Available Amount" info for Budget.
+  
+---
+
 __v4.9.1 @ 2019-11-22__
   
   - Make "Summary Widget" & "Rule Widget"’s record type color follow app's current theme.
