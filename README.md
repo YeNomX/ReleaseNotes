@@ -3,6 +3,11 @@
 
 ------
 
+__v4.10.2 @ 2020-01-09__
+  
+  - Do not show alert for sync errors, just record it in sync history;
+  - BUGFIX: Potential crash when present export settings view.
+
 __v4.10.0 @ 2019-12-09__
   
   - Provide "Available Amount" info for Budget.
