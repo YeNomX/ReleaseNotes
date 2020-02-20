@@ -3,6 +3,12 @@
 
 ------
 
+__v4.11.1 @ 2020-02-20__
+  
+  - Settings - Local Data Management: Provide "Backup & Restore".
+  
+---
+
 __v4.10.2 @ 2020-01-09__
   
   - Do not show alert for sync errors, just record it in sync history;
