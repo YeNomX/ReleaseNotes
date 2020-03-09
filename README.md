@@ -3,6 +3,14 @@
 
 ------
 
+__v4.12.0 @ 2020-03-08__
+  
+  - Introduce Apple Watch version;
+  - Related settings: "Settings - Extension - Apple Watch App Settings";
+  - Related tips: "Settings - Help & Feedback - Tips - Apple Watch".
+  
+---
+
 __v4.11.3 @ 2020-02-22__
   
   - BUGFIX: "Unable to Load" error in Summary & Rule Widgets.
