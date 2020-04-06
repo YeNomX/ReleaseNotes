@@ -3,6 +3,13 @@
 
 ------
 
+__v4.13.2 @ 2020-04-06__
+  
+  - Provide "swipe from screen edge to right" gesture to open root menu quickly;
+  - Compress tip videos to reduce size.
+  
+---
+
 __v4.12.0 @ 2020-03-08__
   
   - Introduce Apple Watch version;
