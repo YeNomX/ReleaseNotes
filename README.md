@@ -3,6 +3,11 @@
 
 ------
 
+__v4.13.3 @ 2020-05-13__
+  
+  - Apply rounding to Rule outcome's value;
+  - BUGFIX: Potential crash while switching segment on Ledger report.
+
 __v4.13.2 @ 2020-04-06__
   
   - Provide "swipe from screen edge to right" gesture to open root menu quickly;
