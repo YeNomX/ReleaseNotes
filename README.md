@@ -3,6 +3,14 @@
 
 ------
 
+__v4.14.2 @ 2020-06-14__
+  
+  - Optimize system keyboard associated views’ interaction;
+  - BUGFIX: Potential crash under detail records preview view for report;
+  - BUGFIX: Potential crash when edit ledger's default unit.
+  
+---
+
 __v4.13.3 @ 2020-05-13__
   
   - Apply rounding to Rule outcome's value;
