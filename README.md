@@ -3,6 +3,13 @@
 
 ------
 
+__v4.15.5 @ 2020-09-10__
+  
+  - Fine-tune report pie chart's position when detail view is presented;
+  - BUGFIX: Potential crash when save Summary Widget settings.
+  
+---
+
 __v4.14.2 @ 2020-06-14__
   
   - Optimize system keyboard associated views’ interaction;
