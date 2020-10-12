@@ -8,7 +8,8 @@ __v5.0.9 @ 2020-10-11__
   - Migrate Today Widget Extensions to new iOS 14 Widgets;
   - Update lowest support version to iOS 14.
   
-===
+---
+---
 
 __v4.15.5 @ 2020-09-10__
   
