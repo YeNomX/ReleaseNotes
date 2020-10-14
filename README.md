@@ -3,6 +3,12 @@
 
 ------
 
+__v5.1.2 @ 2020-10-14__
+  
+  - Provide Budget Widget.
+  
+---
+
 __v5.0.9 @ 2020-10-11__
   
   - Migrate Today Widget Extensions to new iOS 14 Widgets;
