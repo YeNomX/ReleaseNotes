@@ -3,6 +3,17 @@
 
 ------
 
+__v5.2.5 @ 2020-11-02__
+  
+  - Provide note & photo elements for Report & Budget’s records preview list;
+  - Cache unit converted record value when close budget w/ snapshot;
+  - Record tag selection view: Make type indicator consistent for category’s child tags;
+  - Disable monthly section report’s swipe gesture while presenting tags/records preview;
+  - Replace some icons w/ system-defined ones;
+  - BUGFIX: Incorrect navigation bar status when edit photo from Photo Preview module.
+  
+---
+
 __v5.1.2 @ 2020-10-14__
   
   - Provide Budget Widget.
