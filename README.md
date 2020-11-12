@@ -3,6 +3,13 @@
 
 ------
 
+__v5.3.2 @ 2020-11-12__
+  
+  - Support searching when select tag for Budget, Rule, etc;
+  - Update Rule's tag selection logic.
+  
+---
+
 __v5.2.5 @ 2020-11-02__
   
   - Provide note & photo elements for Report & Budget’s records preview list;
