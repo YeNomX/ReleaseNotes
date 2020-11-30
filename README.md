@@ -3,6 +3,12 @@
 
 ------
 
+__v5.4.0 @ 2020-11-29__
+  
+  - BUGFIX: Report Summary View's value not converted when there's an exchange exists.
+  
+---
+
 __v5.3.2 @ 2020-11-12__
   
   - Support searching when select tag for Budget, Rule, etc;
