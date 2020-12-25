@@ -3,6 +3,13 @@
 
 ------
 
+__v5.5.0 @ 2020-12-22__
+  
+  - Provide "CONTAINS"/"SPECIFIC" filter strategy option for Report Tag Filter view;
+  - When export monthly report, use that month’s date range as default value.
+  
+---
+
 __v5.4.0 @ 2020-11-29__
   
   - BUGFIX: Report Summary View's value not converted when there's an exchange exists.
