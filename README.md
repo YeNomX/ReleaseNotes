@@ -3,6 +3,10 @@
 
 ------
 
+__v5.5.1 @ 2021-01-04__
+  
+  - Refresh records timeline instantly after updating record from report records preview.
+
 __v5.5.0 @ 2020-12-22__
   
   - Provide "CONTAINS"/"SPECIFIC" filter strategy option for Report Tag Filter view;
