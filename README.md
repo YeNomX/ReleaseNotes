@@ -3,6 +3,10 @@
 
 ------
 
+__v5.5.2 @ 2021-01-19__
+  
+  - Upgrade some third party libs.
+
 __v5.5.1 @ 2021-01-04__
   
   - Refresh records timeline instantly after updating record from report records preview.
