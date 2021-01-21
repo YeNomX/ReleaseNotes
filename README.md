@@ -3,6 +3,10 @@
 
 ------
 
+__v5.5.3 @ 2021-01-21__
+  
+  - BUGFIX: Budget view crashes when account not found by ID.
+
 __v5.5.2 @ 2021-01-19__
   
   - Upgrade some third party libs.
