@@ -3,6 +3,13 @@
 
 ------
 
+__v5.6.1 @ 2021-02-19__
+  
+  - Tag Edit View: Provide "Records Preview";
+  - Support batch processing for report & tag's Records Preview View.
+  
+---
+
 __v5.5.3 @ 2021-01-21__
   
   - BUGFIX: Budget view crashes when account not found by ID.
