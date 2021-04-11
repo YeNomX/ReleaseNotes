@@ -3,6 +3,10 @@
 
 ------
 
+__v5.6.2 @ 2021-04-10__
+  
+  - BUGFIX: Budget view crashes when expected budget not found.
+
 __v5.6.1 @ 2021-02-19__
   
   - Tag Edit View: Provide "Records Preview";
