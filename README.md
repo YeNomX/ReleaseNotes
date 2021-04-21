@@ -3,6 +3,14 @@
 
 ------
 
+__v5.7.0 @ 2021-04-21__
+  
+  - Record Unit Selection View: Provide exchange rate refresh button for currency units;
+  - Report Export View: Provide "Include Record Display Value Column" option for "Data Unit" setting;
+  - Add missed Chinese localization for report title.
+  
+---
+
 __v5.6.2 @ 2021-04-10__
   
   - BUGFIX: Budget view crashes when expected budget not found.
