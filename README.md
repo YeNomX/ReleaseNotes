@@ -3,6 +3,13 @@
 
 ------
 
+__v5.8.0 @ 2021-05-17__
+  
+  - Support locking date during record date selection;
+  - Use "Scale Aspect Fit" as default photo scale mode.
+  
+---
+
 __v5.7.0 @ 2021-04-21__
   
   - Record Unit Selection View: Provide exchange rate refresh button for currency units;
