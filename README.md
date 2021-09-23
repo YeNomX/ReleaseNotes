@@ -3,6 +3,14 @@
 
 ------
 
+__v5.9.4 @ 2021-09-22__
+  
+  - Provide convenient options to update date for record;
+  - Accent record date if it's locked;
+  - Some improvements.
+  
+---
+
 __v5.8.0 @ 2021-05-17__
   
   - Support locking date during record date selection;
