@@ -3,6 +3,12 @@
 
 ------
 
+__v5.10.1 @ 2022-03-07__
+  
+  - BUGFIX: No data presented after editing Report Widget for some cases.
+  
+---
+
 __v5.9.4 @ 2021-09-22__
   
   - Provide convenient options to update date for record;
