@@ -1,6 +1,4 @@
 
-[In English](https://yenomdev.kjuly.com/VersionHistory-iOS/)
-
 ------
 
 __v5.10.1 @ 2022-03-07__

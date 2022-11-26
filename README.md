@@ -1,6 +1,4 @@
 
-[简体中文](/VersionHistory-iOS/zh_Hans) | [繁體中文](/VersionHistory-iOS/zh_Hant)
-
 ------
 
 __v5.10.1 @ 2022-03-07__
