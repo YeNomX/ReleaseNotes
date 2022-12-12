@@ -1,6 +1,14 @@
 
 ------
 
+__v6.0.5 @ 2022-12-12__
+  
+  - Totally new interface with the system framework;
+  - Update lowest support version to iOS 15.5.
+  
+---
+---
+
 __v5.10.1 @ 2022-03-07__
   
   - BUGFIX: No data presented after editing Report Widget for some cases.
