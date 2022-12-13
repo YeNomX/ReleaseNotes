@@ -1,6 +1,10 @@
 
 ------
 
+__v6.0.6 @ 2022-12-13__
+  
+  - BUGFIX: No favorited tags are presented when creating a new record by swipe gesture in lock view.
+
 __v6.0.5 @ 2022-12-12__
   
   - Totally new interface with the system framework;
