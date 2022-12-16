@@ -1,6 +1,18 @@
 
 ------
 
+__v6.1.2 @ 2022-12-16__
+  
+  - Report Filter View: Provide an account switch option;
+  - Record Edit View: Add back swipe gesture on the value field;
+  - Record Edit View: Add back shortcut buttons above the calculator keyboard;
+  - Record Notes Edit View: Provide a save button over the keyboard;
+  - Accounts View: Provide an "Add Account" option for the ledger cell context menu;
+  - Accounts View: Provide "Report" & "Show Records" options for the account cell context menu;
+  - Sidebar Menu: Adjust its selected option's background color when it's the same as the accent color.
+  
+---
+
 __v6.0.6 @ 2022-12-13__
   
   - BUGFIX: No favorited tags are presented when creating a new record by swipe gesture in lock view.
