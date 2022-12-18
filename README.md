@@ -1,6 +1,13 @@
 
 ------
 
+__v6.2.0 @ 2022-12-17__
+  
+  - Provide summary data for records & report's account selection view;
+  - BUGFIX: Selected tags are not shown in the Rule Preview.
+  
+---
+
 __v6.1.2 @ 2022-12-16__
   
   - Report Filter View: Provide an account switch option;
