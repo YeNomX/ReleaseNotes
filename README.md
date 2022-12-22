@@ -1,6 +1,16 @@
 
 ------
 
+__v6.3.0 @ 2022-12-21__
+  
+  - Records Timeline Action Menu: If "Auto-Lock" is enabled, provide a "Lock" option to lock manually;
+  - Record Tag Selection View: Allow tag creation when there are no search results;
+  - Photo Detail View: Adjust relevant record info's presentation;
+  - Records Preview View: Adjust tags' text color under light mode;
+  - BUGFIX: The record creation view is not presented by 3D Touch when the app is not launched.
+  
+---
+
 __v6.2.0 @ 2022-12-17__
   
   - Provide summary data for records & report's account selection view;
