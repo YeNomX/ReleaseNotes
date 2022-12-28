@@ -1,6 +1,15 @@
 
 ------
 
+__v6.4.1 @ 2022-12-27__
+  
+  - Support the landscape orientation;
+  - Settings View: Provide "Layout' in the "General" section (you can turn off the landscape orientation there);
+  - Unit Relation Edit View: Provide "Choose 3rd Party Service" for updating exchange rates;
+  - Exchange Rate Services View: Provide several 3rd party services and the ability to save your own API Key.
+  
+---
+
 __v6.3.0 @ 2022-12-21__
   
   - Records Timeline Action Menu: If "Auto-Lock" is enabled, provide a "Lock" option to lock manually;
