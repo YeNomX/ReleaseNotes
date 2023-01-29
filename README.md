@@ -1,6 +1,10 @@
 
 ------
 
+__v6.4.2 @ 2023-01-29__
+  
+  - BUGFIX: Ledger sorting issue in the Accounts View.
+
 __v6.4.1 @ 2022-12-27__
   
   - Support the landscape orientation;
