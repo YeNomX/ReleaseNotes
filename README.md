@@ -1,6 +1,12 @@
 
 ------
 
+__v6.5.1 @ 2023-02-03__
+  
+  - Bar/Line Chart Report: Convert each value with the account report unit.
+  
+---
+
 __v6.4.2 @ 2023-01-29__
   
   - BUGFIX: Ledger sorting issue in the Accounts View.
