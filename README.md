@@ -1,6 +1,13 @@
 
 ------
 
+__v6.6.0 @ 2023-02-06__
+  
+  - Provide unit detail for the report;
+  - BUGFIX: Crash when exit report view immediately before complete data loading.
+  
+---
+
 __v6.5.1 @ 2023-02-03__
   
   - Bar/Line Chart Report: Convert each value with the account report unit.
