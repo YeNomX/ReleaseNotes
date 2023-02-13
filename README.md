@@ -1,6 +1,10 @@
 
 ------
 
+__v6.6.3 @ 2023-02-12__
+  
+  - Premium View: Refrain from retrieving unavailable products.
+
 __v6.6.0 @ 2023-02-06__
   
   - Provide unit detail for the report;
