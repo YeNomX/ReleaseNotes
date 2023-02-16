@@ -1,6 +1,12 @@
 
 ------
 
+__v6.7.3 @ 2023-02-15__
+  
+  - Support iPad version.
+  
+---
+
 __v6.6.3 @ 2023-02-12__
   
   - Premium View: Refrain from retrieving unavailable products.
