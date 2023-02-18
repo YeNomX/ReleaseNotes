@@ -1,6 +1,10 @@
 
 ------
 
+__v6.7.4 @ 2023-02-16__
+  
+  - Update rule verification logic when launching the app after a long period.
+
 __v6.7.3 @ 2023-02-15__
   
   - Support iPad version.
