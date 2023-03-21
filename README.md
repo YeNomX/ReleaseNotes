@@ -1,6 +1,12 @@
 
 ------
 
+__v6.8.13 @ 2023-03-19__
+  
+  - Introduce Trial Plan for Premium (Settings - Premium - Trial).
+  
+---
+
 __v6.7.4 @ 2023-02-16__
   
   - Update rule verification logic when launching the app after a long period.
