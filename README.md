@@ -1,6 +1,13 @@
 
 ------
 
+__v6.9.2 @ 2023-03-23__
+  
+  - Budget Edit View: Provide quick selection button for the date range;
+  - Report: Make the calendar follow the device’s settings about the first weekday.
+  
+---
+
 __v6.8.13 @ 2023-03-19__
   
   - Introduce Trial Plan for Premium (Settings - Premium - Trial).
