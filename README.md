@@ -1,6 +1,14 @@
 
 ------
 
+__v6.10.0 @ 2023-04-10__
+  
+  - Update the search bar for the records timeline;
+  - Provide a segmented control as well as a search bar for some list pages;
+  - Budgets View: Present unstarted budgets as well in the Live Budgets section.
+  
+---
+
 __v6.9.2 @ 2023-03-23__
   
   - Budget Edit View: Provide quick selection button for the date range;
