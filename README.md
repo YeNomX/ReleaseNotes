@@ -1,6 +1,10 @@
 
 ------
 
+__v6.10.2 @ 2023-04-13__
+  
+  - Make case insensitive during text searching.
+
 __v6.10.0 @ 2023-04-10__
   
   - Update the search bar for the records timeline;
