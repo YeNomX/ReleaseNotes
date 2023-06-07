@@ -1,6 +1,14 @@
 
 ------
 
+__v7.0.1 @ 2023-06-06__
+  
+  - Improves the overall framework of the program;
+  - Updates the records timeline (iPad version).
+  
+---
+---
+
 __v6.10.2 @ 2023-04-13__
   
   - Make case insensitive during text searching.
