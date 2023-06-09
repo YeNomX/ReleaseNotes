@@ -1,6 +1,10 @@
 
 ------
 
+__v7.0.3 @ 2023-06-08__
+  
+  - BUGFIX: The records preview cannot be dismissed correctly to locate a selected record.
+
 __v7.0.1 @ 2023-06-06__
   
   - Improves the overall framework of the program;
