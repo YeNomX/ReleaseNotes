@@ -1,6 +1,13 @@
 
 ------
 
+__v7.1.2 @ 2023-07-04__
+  
+  - Updates the photo picker;
+  - Unlocks the photo canvas background color customization from Premium.
+  
+---
+
 __v7.0.3 @ 2023-06-08__
   
   - BUGFIX: The records preview cannot be dismissed correctly to locate a selected record.
