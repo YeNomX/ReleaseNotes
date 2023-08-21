@@ -1,6 +1,13 @@
 
 ------
 
+__v7.2.0 @ 2023-08-21__
+  
+  - Records Timeline: Loads the page for the selected record after done searching;
+  - Records Cell Menu: Provides a "Duplicate" option.
+  
+---
+
 __v7.1.2 @ 2023-07-04__
   
   - Updates the photo picker;
