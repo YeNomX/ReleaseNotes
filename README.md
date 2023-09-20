@@ -1,6 +1,12 @@
 
 ------
 
+__v7.3.1 @ 2023-09-19__
+  
+  - Improves the interaction of searchable lists.
+  
+---
+
 __v7.2.0 @ 2023-08-21__
   
   - Records Timeline: Loads the page for the selected record after done searching;
