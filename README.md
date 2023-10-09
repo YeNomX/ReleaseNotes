@@ -1,6 +1,13 @@
 
 ------
 
+__v7.4.2 @ 2023-10-08__
+  
+  - Record Edit View: Improves the popover keyboard’s interaction (iPad version);
+  - Removes the duplicated menu button under iOS 17 (iPad version).
+  
+---
+
 __v7.3.1 @ 2023-09-19__
   
   - Improves the interaction of searchable lists.
