@@ -1,6 +1,12 @@
 
 ------
 
+__v7.5.0 @ 2023-10-10__
+  
+  - Fixed widget styles under iOS 17.
+  
+---
+
 __v7.4.2 @ 2023-10-08__
   
   - Record Edit View: Improves the popover keyboard’s interaction (iPad version);
