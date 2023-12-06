@@ -1,6 +1,12 @@
 
 ------
 
+__v7.6.0 @ 2023-12-05__
+  
+  - Updates the About page in Settings.
+  
+---
+
 __v7.5.0 @ 2023-10-10__
   
   - Fixed widget styles under iOS 17.
