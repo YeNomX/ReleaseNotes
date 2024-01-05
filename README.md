@@ -1,6 +1,13 @@
 
 ------
 
+__v7.7.2 @ 2024-01-05__
+  
+  - Introduces Event Module.  
+  > Find out how much money was made/spent at a party, workshop, or trip.
+  
+---
+
 __v7.6.0 @ 2023-12-05__
   
   - Updates the About page in Settings.
