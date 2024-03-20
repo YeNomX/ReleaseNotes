@@ -1,6 +1,14 @@
 
 ------
 
+__v7.8.0 @ 2024-03-19__
+  
+  - Duplicate finished Events will be reopened by default;
+  - Update the demo API key for the currency exchange rate service;
+  - Record Unit Edit View: Update "Current Exchange Rate" after fetching the latest value of the selected unit.
+  
+---
+
 __v7.7.2 @ 2024-01-05__
   
   - Introduces Event Module.  
