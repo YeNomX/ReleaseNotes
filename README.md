@@ -1,6 +1,10 @@
 
 ------
 
+__v7.8.2 @ 2024-05-09__
+  
+  - Settings - About View: Add the app registration number info.
+
 __v7.8.0 @ 2024-03-19__
   
   - Duplicate finished Events will be reopened by default;
