@@ -1,6 +1,10 @@
 
 ------
 
+__v7.8.3 @ 2024-05-15__
+  
+  - Settings - About View: Update localized links.
+
 __v7.8.2 @ 2024-05-09__
   
   - Settings - About View: Add the app registration number info.
