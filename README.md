@@ -1,6 +1,12 @@
 
 ------
 
+__v7.9.0 @ 2024-07-01__
+  
+  - Account Details Page: Provides "Show Records" to redirect to the records timeline.
+  
+---
+
 __v7.8.3 @ 2024-05-15__
   
   - Settings - About View: Update localized links.
