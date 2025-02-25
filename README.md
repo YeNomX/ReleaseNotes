@@ -1,6 +1,12 @@
 
 ------
 
+__v7.10.0 @ 2025-02-25__
+  
+  - Records Timeline: Fixed notes display issue in iOS 18.
+  
+---
+
 __v7.9.0 @ 2024-07-01__
   
   - Account Details Page: Provides "Show Records" to redirect to the records timeline.
