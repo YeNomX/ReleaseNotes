@@ -1,6 +1,12 @@
 
 ------
 
+__v7.11.0 @ 2025-04-10__
+  
+  - Sync Monitor: Updated confirmation dialog for switching Auto-Sync.
+  
+---
+
 __v7.10.0 @ 2025-02-25__
   
   - Records Timeline: Fixed notes display issue in iOS 18.
