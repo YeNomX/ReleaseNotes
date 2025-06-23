@@ -1,6 +1,13 @@
 
 ------
 
+__v7.12.0 @ 2025-06-21__
+  
+  - Records Timeline: Adjust the search bar (iPhone version);
+  - Records Timeline Search: Dismiss the keyboard once a cell is selected.
+  
+---
+
 __v7.11.0 @ 2025-04-10__
   
   - Sync Monitor: Updated confirmation dialog for switching Auto-Sync.
