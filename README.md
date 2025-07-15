@@ -1,6 +1,12 @@
 
 ------
 
+__v7.13.1 @ 2025-07-15__
+  
+  - Terminated the Premium Trial Plan by watching rewarded videos.
+  
+---
+
 __v7.12.0 @ 2025-06-21__
   
   - Records Timeline: Adjust the search bar (iPhone version);
