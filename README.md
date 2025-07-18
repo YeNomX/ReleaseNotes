@@ -1,6 +1,10 @@
 
 ------
 
+__v7.13.3 @ 2025-07-17__
+  
+  - Fine-tune some UI elements.
+
 __v7.13.1 @ 2025-07-15__
   
   - Terminated the Premium Trial Plan by watching rewarded videos.
