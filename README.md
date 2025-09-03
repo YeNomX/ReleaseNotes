@@ -1,6 +1,12 @@
 
 ------
 
+__v7.14.0 @ 2025-09-01__
+  
+  - Photo Settings View: Fixed localization issues.
+  
+---
+
 __v7.13.3 @ 2025-07-17__
   
   - Fine-tune some UI elements.
