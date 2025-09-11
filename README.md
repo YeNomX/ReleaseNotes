@@ -1,6 +1,12 @@
 
 ------
 
+__v7.15.0 @ 2025-09-10__
+  
+  - Adopt iOS 26 and iPadOS 26.
+  
+---
+
 __v7.14.0 @ 2025-09-01__
   
   - Photo Settings View: Fixed localization issues.
