@@ -1,6 +1,12 @@
 
 ------
 
+__v7.16.1 @ 2025-09-25__
+  
+  - Fine-tune some UI elements in iOS 26.
+  
+---
+
 __v7.15.0 @ 2025-09-10__
   
   - Adopt iOS 26 and iPadOS 26.
