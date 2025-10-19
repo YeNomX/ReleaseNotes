@@ -1,6 +1,12 @@
 
 ------
 
+__v7.17.1 @ 2025-10-19__
+  
+  - Optimized data sync.
+  
+---
+
 __v7.16.1 @ 2025-09-25__
   
   - Fine-tune some UI elements in iOS 26.
