@@ -1,6 +1,14 @@
 
 ------
 
+__v8.0.1 @ 2026-01-07__
+  
+  - Changed the minimum supported iOS version from 15.5 to 16.0.
+  - Fine-tuned some UI elements.
+  
+---
+---
+
 __v7.17.1 @ 2025-10-19__
   
   - Optimized data sync.
