@@ -1,6 +1,12 @@
 
 ------
 
+__v8.1.1 @ 2026-02-08__
+  
+  - Updated keyboard behavior: It now dismisses interactively when you scroll.
+  
+---
+
 __v8.0.1 @ 2026-01-07__
   
   - Changed the minimum supported iOS version from 15.5 to 16.0.
