@@ -1,6 +1,12 @@
 
 ------
 
+__v8.2.1 @ 2026-03-10__
+  
+  - Updated localization for system-defined unit types.
+  
+---
+
 __v8.1.1 @ 2026-02-08__
   
   - Updated keyboard behavior: It now dismisses interactively when you scroll.
