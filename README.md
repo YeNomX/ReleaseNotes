@@ -1,6 +1,12 @@
 
 ------
 
+__v8.3.1 @ 2026-03-19__
+  
+  - Auto-lock: After manually locking, disable the auto-lock time checks.
+  
+---
+
 __v8.2.1 @ 2026-03-10__
   
   - Updated localization for system-defined unit types.
