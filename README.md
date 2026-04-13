@@ -1,6 +1,10 @@
 
 ------
 
+__v8.3.3 @ 2026-04-13__
+  
+  - Updated the description in the data sync monitor.
+
 __v8.3.1 @ 2026-03-19__
   
   - Auto-lock: After manually locking, disable the auto-lock time checks.
