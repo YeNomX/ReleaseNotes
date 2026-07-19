@@ -1,6 +1,17 @@
 
 ------
 
+__v9.0.1 @ 2026-07-19__
+  
+  - Refactored and improved database persistence and data sync.
+  - Improved report bar and line charts with new data analysis metrics.
+  - Removed the Custom Theme concept.
+  - Refined and updated several setting views.
+  - Changed the minimum supported iOS version from 16.0 to 16.5.
+  
+---
+---
+
 __v8.3.3 @ 2026-04-13__
   
   - Updated the description in the data sync monitor.
