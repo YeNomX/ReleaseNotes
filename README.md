@@ -1,6 +1,13 @@
 
 ------
 
+__v9.1.0 @ 2026-07-22__
+  
+  - Added "Go to…" shortcut to quickly scroll the timeline to the top or current selection.
+  - Auto-lock Feature: Moved from Premium back to basic plan.
+  
+---
+
 __v9.0.1 @ 2026-07-19__
   
   - Refactored and improved database persistence and data sync.
