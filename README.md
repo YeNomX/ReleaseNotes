@@ -1,6 +1,13 @@
 
 ------
 
+__v9.2.0 @ 2026-08-03__
+  
+  - Enhanced the report export view: Added tag filtering and auto-save file configuration preferences for future use.
+  - Updated exported PDF reports: Removed the ID column to improve readability.
+  
+---
+
 __v9.1.3 @ 2026-07-27__
   
   - Updated the report filter view.
