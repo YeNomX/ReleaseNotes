@@ -1,6 +1,15 @@
 
 ------
 
+__v9.3.0 @ 2026-08-19__
+  
+  - Record Timeline Search: Now supports qualifiers (value:, note:, tag:) for refined filtering.
+    * i. Quick Tip: Start your search with a colon (:) to trigger qualifier suggestions.
+    * ii. Use value: to filter records by amount (e.g., value:>=100, value:=100 or value:100).
+    * iii. To limit your search to note, use note: followed by your search term (e.g., note:abc).
+  
+---
+
 __v9.2.0 @ 2026-08-03__
   
   - Enhanced the report export view: Added tag filtering and auto-save file configuration preferences for future use.
