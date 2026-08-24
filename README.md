@@ -1,6 +1,13 @@
 
 ------
 
+__v9.4.0 @ 2026-08-24__
+  
+  - Updated the tag selection list in the record edit view.
+  - Updated the record edit view layout when adding a record from the Shortcut Widget.
+  
+---
+
 __v9.3.0 @ 2026-08-19__
   
   - Record Timeline Search: Now supports qualifiers (value:, note:, tag:) for refined filtering.
