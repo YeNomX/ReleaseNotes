@@ -1,6 +1,12 @@
 
 ------
 
+__v9.5.0 @ 2026-09-06__
+  
+  - Fixed an issue where exporting reports would skip untagged records.
+  
+---
+
 __v9.4.0 @ 2026-08-24__
   
   - Updated the tag selection list in the record edit view.
