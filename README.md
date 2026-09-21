@@ -1,6 +1,12 @@
 
 ------
 
+__v9.6.0 @ 2026-09-20__
+  
+  - Updated descriptions for rules, events, and budgets.
+  
+---
+
 __v9.5.0 @ 2026-09-06__
   
   - Fixed an issue where exporting reports would skip untagged records.
