@@ -1,6 +1,13 @@
 
 ------
 
+__v9.7.0 @ 2026-09-25__
+  
+  - Optimized app launch speed.
+  - Adopted iOS 27.
+  
+---
+
 __v9.6.0 @ 2026-09-20__
   
   - Updated descriptions for rules, events, and budgets.
