@@ -1,6 +1,12 @@
 
 ------
 
+__v9.8.0 @ 2026-09-27__
+  
+  - Updated the sidebar menu style for iPadOS 27.
+  
+---
+
 __v9.7.0 @ 2026-09-25__
   
   - Optimized app launch speed.
