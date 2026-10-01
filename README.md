@@ -1,6 +1,12 @@
 
 ------
 
+__v9.9.0 @ 2026-10-01__
+  
+  - Updated the Report Widget.
+  
+---
+
 __v9.8.0 @ 2026-09-27__
   
   - Updated the sidebar menu style for iPadOS 27.
