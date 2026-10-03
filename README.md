@@ -1,6 +1,13 @@
 
 ------
 
+__v9.10.0 @ 2026-10-03__
+  
+  - Optimized data updates for Widgets.
+  - Updated the date subtitle in the Report View.
+  
+---
+
 __v9.9.0 @ 2026-10-01__
   
   - Updated the Report Widget.
