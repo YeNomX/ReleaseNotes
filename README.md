@@ -1,12 +1,6 @@
 
 ------
 
-__v9.11.0 @ 2026-10-11__
-  
-  - Updated pre-setup services at app launch.
-  
----
-
 __v9.10.0 @ 2026-10-03__
   
   - Optimized data updates for Widgets.
