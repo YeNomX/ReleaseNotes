@@ -1,6 +1,13 @@
 
 ------
 
+__v9.11.1 @ 2026-10-12__
+  
+  - Updated pre-setup services at app launch.
+  - Updated the report view layout (iPad version).
+  
+---
+
 __v9.10.0 @ 2026-10-03__
   
   - Optimized data updates for Widgets.
